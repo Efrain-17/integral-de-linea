@@ -1,0 +1,2 @@
+matplotlib
+pip install matplotlib
